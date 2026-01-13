@@ -1,7 +1,7 @@
 pyrogram>=2.0.30
 tgcrypto
 cinemagoer
-pymongo==3.12.3
+pymongo[srv]
 motor==2.5.1
 marshmallow==3.15.0
 umongo==3.0.1
@@ -12,3 +12,4 @@ pynewtonmath
 pytz
 aiohttp
 setuptools
+dnspython
